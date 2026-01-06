@@ -1,6 +1,6 @@
 <div style="text-align: center; margin-bottom: 32px;">
   <img 
-    src="assets/sestra-cover.png" 
+    src="assets/SestraGithubBanner.jpg" 
     alt="Sestra Cover" 
     style="max-width: 100%; height: auto;"
   />
